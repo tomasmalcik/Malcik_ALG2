@@ -1,2 +1,2 @@
 # projects
-# nikdy jsem s gitem nedělal
+Zde se nachází úkoly, které byly zadány na předmětu MTI/ALG2
